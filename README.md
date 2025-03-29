@@ -1,5 +1,5 @@
-<br />
-<div align="center">
+<br=welbert5753 />
+<div align=">
   <a href="https://github.com/enkryptcom/enKrypt">
     <img src="enkrypt.png" alt="Logo">
   </a>
