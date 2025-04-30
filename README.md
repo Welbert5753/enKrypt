@@ -12,10 +12,7 @@
     <a href="https://chrome.google.com/webstore/detail/enkrypt-ethereum-and-polk/kkpllkodjeloidieedojogacfhpaihoh">
       <strong>Download for Chrome/Brave »</strong>
     </a>
-    <br />
-    <br />
-    ·
-    <a href="https://github.com/enkryptcom/enKrypt/issues">Report Bug</a>
+  href="https://github.com/enkryptcom/enKrypt/issues">Report Bug</a>
     ·
     <a href="https://github.com/enkryptcom/enKrypt/issues">Request Feature</a>
   </p>
